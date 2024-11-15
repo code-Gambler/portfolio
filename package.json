@@ -1,12 +1,17 @@
 {
-  "name": "3dfolio",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "3D Portfolio made using three.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-Gambler/fragments.git"
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
