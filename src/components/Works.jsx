@@ -79,7 +79,6 @@ const ProjectCard = ({
 };
 
 const Works = () => {
-  console.log(projects);
   return (
     <>
           <motion.section
