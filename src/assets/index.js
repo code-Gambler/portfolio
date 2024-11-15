@@ -12,7 +12,6 @@ import c from "./tech/c.png";
 import cPlusPlus from "./tech/c++.png";
 import cSharp from "./tech/c-sharp.png";
 import java from "./tech/java.png";
-import jest from "./tech/jest.png";
 import next from "./tech/next.png";
 import php from "./tech/php.png";
 import postgres from "./tech/postgres.png";
@@ -81,7 +80,6 @@ export {
   cPlusPlus,
   cSharp,
   java,
-  jest,
   next,
   php,
   postgres,
